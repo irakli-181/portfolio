@@ -1,3 +1,7 @@
+/**
+*	Version: 1.0
+
+**/
 !function(n,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t():"function"==typeof define&&define.amd?define(t):n.Splitting=t()}(this,function(){"use strict"
 var o=document,l=o.createTextNode.bind(o)
 function d(n,t,e){n.style.setProperty(t,e)}function f(n,t){return n.appendChild(t)}function p(n,t,e,r){var i=o.createElement("span")
